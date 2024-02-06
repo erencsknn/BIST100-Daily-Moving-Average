@@ -1,4 +1,4 @@
-# BIST100 Moving Average
+# BIST100 Daily Moving Average
 
 ## Description
 
