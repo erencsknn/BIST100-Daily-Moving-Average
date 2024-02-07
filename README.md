@@ -39,3 +39,6 @@ The project visualizes stock closing prices, 20-day, and 50-day moving averages 
 ## Example Output
 
 When the project is run, it will display a chart showing closing prices along with 20-day and 50-day moving averages.
+
+![Figure_1](https://github.com/erencsknn/BIST100-Daily-Moving-Average/assets/111982944/00cd89eb-ac76-4ff9-94f2-408f3ab3951e)
+
